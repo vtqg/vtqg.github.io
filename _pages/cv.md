@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,26 +13,26 @@ Education
 ======
 * Ph.D in Computer Science, University of Luxembourg, 2028 (expected)
 * M.Sc. in Computer Science, Technical University of Munich, 2025
-* B.Sc. in Computer Science, FPT University, 2017
+* B.Sc. in Computer Science, FPT University, 2021
 
 Work experience
 ======
-* Oct 2025 - Present: AI Researcher
-  * ESM - European Stability Mechanism (Luxembourg,🇱🇺)
+* Oct 2025 - Present: AI Researcher (Luxembourg,🇱🇺)
+  * ESM - European Stability Mechanism
     * Project: AI for Advancing Bond Issuance Workflows
 
-* Sep 2022 - Oct 2024: Data Scientist
-  * iits-consulting (Dortmund, 🇩🇪)
+* Sep 2022 - Oct 2024: Data Scientist (Munich, 🇩🇪)
+  * iits-consulting
     * Project: Querying structured databases using LLMs
       
-  * Hubert Burda Media (Munich, 🇩🇪)
+  * Hubert Burda Media 
     * Project: Multimodal Publishing for Technique-oriented Cooking Course
       
-  * Roland Berger (Munich, 🇩🇪)
+  * Roland Berger
     * Project: AI-Powered Data Enrichment Tool for Customer Relationship Management
 
-* August 2019 - Apr 2022: Machine Learning Engineer
-  * Viettel Cyber Security (Hanoi, 🇻🇳)
+* August 2019 - Apr 2022: Machine Learning Engineer (Hanoi, 🇻🇳)
+  * Viettel Cyber Security
     * Projects:
       * Graph Neural Networks for Financial Fraud Detection & Response (F2DR).
       * Automated Rule Tuning model for Web Application Firewall (WAF).
@@ -40,7 +40,7 @@ Work experience
       * “From Traditional Graph to Graph Neural Networks” seminar which summarizes traditional feature engineering for GraphML, Walk strategies, Node/Edge/(Sub)Graph Embeddings, Sampling and Aggregating nodes/edges, Graph Augmentation techniques.
       * Participated in weekly Paper Sharing group with a wide range of topics in Artificial Intelligence, Machine Learning Operations, Data Science.
         
-  * CyRadar (Hanoi, 🇻🇳)
+  * CyRadar
     * Projects:
       * Phishing URLs detection based on lexical and HTML content-based features.
       * Classifying domains, URLs, IPs, and files using heterogeneous reputation graph.
