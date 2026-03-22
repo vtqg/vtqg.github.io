@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, University of Luxembourg, 2028 (expected)
 * M.Sc. in Computer Science, Technical University of Munich, 2025
-* B.Sc. in Computer Science, FPT University, 2017
+* B.Sc. in Computer Science, FPT University, 2021
 
 Publications
 ======
@@ -28,3 +28,7 @@ What makes Tuan-Quang unique?
 💡 Innovative: He stands out for his original thinking. He seeks beyond the obvious route when it comes to problem solving.
 
 👥 Diplomatic: He is cooperative and looks for a win for all sides. He is good at relating to people and thinking of their needs.
+
+Disclaimer
+======
+The website is still under development. Along with my work and study, I have quite some time-consuming hobbies such as hiking, classical music, and especially opera. I am gradually working on this small side project, so please be patient. Thank you for your understanding! 🤙🏻
