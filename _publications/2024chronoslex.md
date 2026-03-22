@@ -2,7 +2,7 @@
 title: "ChronosLex: Time-aware Incremental Training for Temporal Generalization of Legal Classification Tasks"
 collection: publications
 category: conferences
-permalink: /publication/2025chronoslex
+permalink: /publication/2024chronoslex
 excerpt: 'Our experimental results over six legal multi-label text classification datasets reveal that continual learning methods prove effective in preventing overfitting thereby enhancing temporal generalizability, while temporal invariant methods struggle to capture these dynamics of temporal shifts.'
 date: 2024-08-01
 venue: 'Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)'
