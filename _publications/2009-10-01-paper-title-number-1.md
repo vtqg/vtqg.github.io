@@ -3,7 +3,7 @@ title: "ChronosLex: Time-aware Incremental Training for Temporal Generalization 
 collection: publications
 category: conferences
 permalink: /publication/2025chronoslex
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Our experimental results over six legal multi-label text classification datasets reveal that continual learning methods prove effective in preventing overfitting thereby enhancing temporal generalizability, while temporal invariant methods struggle to capture these dynamics of temporal shifts.'
 date: 2024-08-01
 venue: 'Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)'
 paperurl: 'https://aclanthology.org/2024.acl-long.166/'
