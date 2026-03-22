@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025lextempus
 excerpt: 'We pioneer LexTempus, a dynamic mixture of experts model that explicitly models the temporal evolution of legal language in a parameter-efficient online learning framework. We validate the effectiveness of LexTempus on ECHR and EU case law datasets, demonstrating its superiority in both perplexity and open-ended text generation quality metrics.'
-date: 2024-02-17
+date: 2025-07-01
 venue: 'Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)'
 paperurl: 'https://aclanthology.org/2025.acl-long.329/'
 citation: 'Santosh T.y.s.s and Tuan-Quang Vuong. 2025. LexTempus: Enhancing Temporal Generalizability of Legal Language Models Through Dynamic Mixture of Experts. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 6608–6624, Vienna, Austria. Association for Computational Linguistics.'
