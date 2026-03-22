@@ -21,19 +21,15 @@ Work experience
   * ESM - European Stability Mechanism (Luxembourg,🇱🇺)
     * Project: AI for Advancing Bond Issuance Workflows
 
-
-
 * Sep 2022 - Oct 2024: Data Scientist
   * iits-consulting (Dortmund, 🇩🇪)
-    * Project: Querying structured databases using LLMs (in collaboration with TUM.ai)
-
+    * Project: Querying structured databases using LLMs
+      
   * Hubert Burda Media (Munich, 🇩🇪)
-    * Project: Multimodal Publishing for Technique-oriented Cooking Course (in collaboration with TUM.ai)
-
+    * Project: Multimodal Publishing for Technique-oriented Cooking Course
+      
   * Roland Berger (Munich, 🇩🇪)
-    * Project: AI-Powered Data Enrichment Tool for Customer Relationship Management (CRM) (in collaboration with TUM.ai)
-
-
+    * Project: AI-Powered Data Enrichment Tool for Customer Relationship Management
 
 * August 2019 - Apr 2022: Machine Learning Engineer
   * Viettel Cyber Security (Hanoi, 🇻🇳)
@@ -43,7 +39,7 @@ Work experience
     * Activities:
       * “From Traditional Graph to Graph Neural Networks” seminar which summarizes traditional feature engineering for GraphML, Walk strategies, Node/Edge/(Sub)Graph Embeddings, Sampling and Aggregating nodes/edges, Graph Augmentation techniques.
       * Participated in weekly Paper Sharing group with a wide range of topics in Artificial Intelligence, Machine Learning Operations, Data Science.
-
+        
   * CyRadar (Hanoi, 🇻🇳)
     * Projects:
       * Phishing URLs detection based on lexical and HTML content-based features.
