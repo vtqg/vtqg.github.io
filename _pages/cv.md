@@ -21,6 +21,8 @@ Work experience
   * ESM - European Stability Mechanism (Luxembourg,🇱🇺)
     * Project: AI for Advancing Bond Issuance Workflows
 
+
+
 * Sep 2022 - Oct 2024: Data Scientist
   * iits-consulting (Dortmund, 🇩🇪)
     * Project: Querying structured databases using LLMs (in collaboration with TUM.ai)
@@ -31,6 +33,8 @@ Work experience
   * Roland Berger (Munich, 🇩🇪)
     * Project: AI-Powered Data Enrichment Tool for Customer Relationship Management (CRM) (in collaboration with TUM.ai)
 
+
+
 * August 2019 - Apr 2022: Machine Learning Engineer
   * Viettel Cyber Security (Hanoi, 🇻🇳)
     * Projects:
@@ -39,6 +43,7 @@ Work experience
     * Activities:
       * “From Traditional Graph to Graph Neural Networks” seminar which summarizes traditional feature engineering for GraphML, Walk strategies, Node/Edge/(Sub)Graph Embeddings, Sampling and Aggregating nodes/edges, Graph Augmentation techniques.
       * Participated in weekly Paper Sharing group with a wide range of topics in Artificial Intelligence, Machine Learning Operations, Data Science.
+
   * CyRadar (Hanoi, 🇻🇳)
     * Projects:
       * Phishing URLs detection based on lexical and HTML content-based features.
@@ -62,9 +67,6 @@ Languages
 Activities
 ======
 * Course Marshal - ING Night Marathon Luxembourg 2025, SOS Villages d'Enfants Monde (Luxembourg)
-
 * Student Mentor - MINGA - International Student Mentoring Program, Technical University of Munich
-
 * Event Organizer - StuStaCulum …das bunte Festival am Englischen Garten, Studentische Vertretung
-
 * Event Coordinator, JS Club - Japanese Software Engineers
