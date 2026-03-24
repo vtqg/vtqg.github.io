@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Tuan-Quang Vuong is a PhD Candidate in Computer Science at the University of Luxembourg, researching the use of Large Language Models for Spreadsheet Intelligence tasks. He focuses on developing Natural Language Processing applications to accelerate real-world workflows, ranging from semi-automated tools that assist humans in decision making to reliable automated systems that can supervise themselves. With an enormous enthusiasm for Artificial Intelligence, he has contributed to high-quality research papers and successful AI applications in different companies across diverse domains. Shaped by both academia and industry, Tuan-Quang stands out as a unique candidate, combining analytical thinking with results-driven execution.
+Tuan-Quang Vuong is a Doctoral Researcher at the [Security, Reasoning and Validation (SerVal) Research Group](https://www.uni.lu/snt-en/research-groups/SerVal/), Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg, researching the use of Large Language Models for Spreadsheet Intelligence tasks. He focuses on developing Natural Language Processing applications to accelerate real-world workflows, ranging from semi-automated tools that assist humans in decision making to reliable automated systems that can supervise themselves. With an enormous enthusiasm for Artificial Intelligence, he has contributed to high-quality research papers and successful AI applications in different companies across diverse domains. Shaped by both academia and industry, Tuan-Quang stands out as a unique candidate, combining analytical thinking with results-driven execution.
 
 Education
 ======
